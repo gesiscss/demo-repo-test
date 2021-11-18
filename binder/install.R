@@ -1,0 +1,1 @@
+install.packages(c("tidyverse", "rmarkdown", "tinytex", "stargazer", "corrr", "equatiomatic"))
